@@ -74,5 +74,3 @@ export const getAIResponse = async (message) => {
 
     throw new Error(`AI service failed after trying multiple models: ${finalErrorMessage}`);
 };
-
-//hsjshcjdcjdn
